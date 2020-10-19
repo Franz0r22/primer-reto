@@ -1,2 +1,2 @@
-# primer-reto
-Mi primer reto con HTML, CSS, JS
+# sliders
+sliders using HTML, CSS, JS
